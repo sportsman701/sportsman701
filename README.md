@@ -11,7 +11,7 @@
   - Migrating frontend to smart contracts with web3.js ethers.js
   - Off-chain BackEnd Apis(Subgraph, Nodejs, GraphQL)
   - AWS, GCP
-  - Full Stack Development(Meteor, Express, Django, Laravel)
+  - Full Stack Development(React, Vue, Angular, Express, Django, Laravel)
   - DBMS (MongoDB, MySQL, PostgreSQL, SQLServer)
 
 ## Main Languages
